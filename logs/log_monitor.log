@@ -1,0 +1,646 @@
+2025-11-07T20:08:46.357851+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.357856+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.358580+00:00 apurvahp kernel: RAS: Correctable Errors collector initialized.
+2025-11-07T20:08:46.358879+00:00 apurvahp kernel: WSL (1 - init(docker-desktop)) ERROR: ConfigApplyWindowsLibPath:2058: open /etc/ld.so.conf.d/ld.wsl.conf failed 2
+2025-11-07T20:08:46.359185+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359216+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359221+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.497269+00:00 apurvahp snapd[191]: helpers.go:159: error trying to compare the snap system key: system-key missing on disk
+2025-11-07T20:20:26.185449+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:20:44.863671+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Could not ensure valid Landscape configuration: could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:20:44.863958+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T20:31:45.613975+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Exiting after could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:31:45.615098+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T20:08:46.357851+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.357856+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.358580+00:00 apurvahp kernel: RAS: Correctable Errors collector initialized.
+2025-11-07T20:08:46.358879+00:00 apurvahp kernel: WSL (1 - init(docker-desktop)) ERROR: ConfigApplyWindowsLibPath:2058: open /etc/ld.so.conf.d/ld.wsl.conf failed 2
+2025-11-07T20:08:46.359185+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359216+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359221+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.497269+00:00 apurvahp snapd[191]: helpers.go:159: error trying to compare the snap system key: system-key missing on disk
+2025-11-07T20:20:26.185449+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:20:44.863671+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Could not ensure valid Landscape configuration: could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:20:44.863958+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T20:31:45.613975+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Exiting after could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:31:45.615098+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T20:08:46.357851+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.357856+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.358580+00:00 apurvahp kernel: RAS: Correctable Errors collector initialized.
+2025-11-07T20:08:46.358879+00:00 apurvahp kernel: WSL (1 - init(docker-desktop)) ERROR: ConfigApplyWindowsLibPath:2058: open /etc/ld.so.conf.d/ld.wsl.conf failed 2
+2025-11-07T20:08:46.359185+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359216+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359221+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.497269+00:00 apurvahp snapd[191]: helpers.go:159: error trying to compare the snap system key: system-key missing on disk
+2025-11-07T20:20:26.185449+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:20:44.863671+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Could not ensure valid Landscape configuration: could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:20:44.863958+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T20:31:45.613975+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Exiting after could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:31:45.615098+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T20:08:46.357851+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.357856+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.358580+00:00 apurvahp kernel: RAS: Correctable Errors collector initialized.
+2025-11-07T20:08:46.358879+00:00 apurvahp kernel: WSL (1 - init(docker-desktop)) ERROR: ConfigApplyWindowsLibPath:2058: open /etc/ld.so.conf.d/ld.wsl.conf failed 2
+2025-11-07T20:08:46.359185+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359216+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359221+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.497269+00:00 apurvahp snapd[191]: helpers.go:159: error trying to compare the snap system key: system-key missing on disk
+2025-11-07T20:20:26.185449+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:20:44.863671+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Could not ensure valid Landscape configuration: could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:20:44.863958+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T20:31:45.613975+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Exiting after could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:31:45.615098+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T20:08:46.357851+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.357856+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.358580+00:00 apurvahp kernel: RAS: Correctable Errors collector initialized.
+2025-11-07T20:08:46.358879+00:00 apurvahp kernel: WSL (1 - init(docker-desktop)) ERROR: ConfigApplyWindowsLibPath:2058: open /etc/ld.so.conf.d/ld.wsl.conf failed 2
+2025-11-07T20:08:46.359185+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359216+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359221+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.497269+00:00 apurvahp snapd[191]: helpers.go:159: error trying to compare the snap system key: system-key missing on disk
+2025-11-07T20:20:26.185449+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:20:44.863671+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Could not ensure valid Landscape configuration: could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:20:44.863958+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T20:31:45.613975+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Exiting after could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:31:45.615098+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T21:31:09.378961+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.357851+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.357856+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.358580+00:00 apurvahp kernel: RAS: Correctable Errors collector initialized.
+2025-11-07T20:08:46.358879+00:00 apurvahp kernel: WSL (1 - init(docker-desktop)) ERROR: ConfigApplyWindowsLibPath:2058: open /etc/ld.so.conf.d/ld.wsl.conf failed 2
+2025-11-07T20:08:46.359185+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359216+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359221+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.497269+00:00 apurvahp snapd[191]: helpers.go:159: error trying to compare the snap system key: system-key missing on disk
+2025-11-07T20:20:26.185449+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:20:44.863671+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Could not ensure valid Landscape configuration: could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:20:44.863958+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T20:31:45.613975+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Exiting after could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:31:45.615098+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T21:31:09.378961+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T21:38:38.764524+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:58.677190+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:59.776278+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:37:44.960747+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.357851+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.357856+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.358580+00:00 apurvahp kernel: RAS: Correctable Errors collector initialized.
+2025-11-07T20:08:46.358879+00:00 apurvahp kernel: WSL (1 - init(docker-desktop)) ERROR: ConfigApplyWindowsLibPath:2058: open /etc/ld.so.conf.d/ld.wsl.conf failed 2
+2025-11-07T20:08:46.359185+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359216+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359221+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.497269+00:00 apurvahp snapd[191]: helpers.go:159: error trying to compare the snap system key: system-key missing on disk
+2025-11-07T20:20:26.185449+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:20:44.863671+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Could not ensure valid Landscape configuration: could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:20:44.863958+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T20:31:45.613975+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Exiting after could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:31:45.615098+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T21:31:09.378961+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T21:38:38.764524+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:58.677190+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:59.776278+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:37:44.960747+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:45:02.125046+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.357851+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.357856+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.358580+00:00 apurvahp kernel: RAS: Correctable Errors collector initialized.
+2025-11-07T20:08:46.358879+00:00 apurvahp kernel: WSL (1 - init(docker-desktop)) ERROR: ConfigApplyWindowsLibPath:2058: open /etc/ld.so.conf.d/ld.wsl.conf failed 2
+2025-11-07T20:08:46.359185+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359216+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359221+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.497269+00:00 apurvahp snapd[191]: helpers.go:159: error trying to compare the snap system key: system-key missing on disk
+2025-11-07T20:20:26.185449+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:20:44.863671+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Could not ensure valid Landscape configuration: could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:20:44.863958+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T20:31:45.613975+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Exiting after could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:31:45.615098+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T21:31:09.378961+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T21:38:38.764524+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:58.677190+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:59.776278+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:37:44.960747+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:45:02.125046+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.357851+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.357856+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.358580+00:00 apurvahp kernel: RAS: Correctable Errors collector initialized.
+2025-11-07T20:08:46.358879+00:00 apurvahp kernel: WSL (1 - init(docker-desktop)) ERROR: ConfigApplyWindowsLibPath:2058: open /etc/ld.so.conf.d/ld.wsl.conf failed 2
+2025-11-07T20:08:46.359185+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359216+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359221+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.497269+00:00 apurvahp snapd[191]: helpers.go:159: error trying to compare the snap system key: system-key missing on disk
+2025-11-07T20:20:26.185449+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:20:44.863671+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Could not ensure valid Landscape configuration: could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:20:44.863958+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T20:31:45.613975+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Exiting after could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:31:45.615098+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T21:31:09.378961+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T21:38:38.764524+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:58.677190+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:59.776278+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:37:44.960747+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:45:02.125046+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T14:16:56.375706+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.357851+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.357856+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.358580+00:00 apurvahp kernel: RAS: Correctable Errors collector initialized.
+2025-11-07T20:08:46.358879+00:00 apurvahp kernel: WSL (1 - init(docker-desktop)) ERROR: ConfigApplyWindowsLibPath:2058: open /etc/ld.so.conf.d/ld.wsl.conf failed 2
+2025-11-07T20:08:46.359185+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359216+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359221+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.497269+00:00 apurvahp snapd[191]: helpers.go:159: error trying to compare the snap system key: system-key missing on disk
+2025-11-07T20:20:26.185449+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:20:44.863671+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Could not ensure valid Landscape configuration: could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:20:44.863958+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T20:31:45.613975+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Exiting after could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:31:45.615098+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T21:31:09.378961+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T21:38:38.764524+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:58.677190+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:59.776278+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:37:44.960747+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:45:02.125046+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T14:16:56.375706+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.357851+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.357856+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.358580+00:00 apurvahp kernel: RAS: Correctable Errors collector initialized.
+2025-11-07T20:08:46.358879+00:00 apurvahp kernel: WSL (1 - init(docker-desktop)) ERROR: ConfigApplyWindowsLibPath:2058: open /etc/ld.so.conf.d/ld.wsl.conf failed 2
+2025-11-07T20:08:46.359185+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359216+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359221+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.497269+00:00 apurvahp snapd[191]: helpers.go:159: error trying to compare the snap system key: system-key missing on disk
+2025-11-07T20:20:26.185449+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:20:44.863671+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Could not ensure valid Landscape configuration: could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:20:44.863958+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T20:31:45.613975+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Exiting after could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:31:45.615098+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T21:31:09.378961+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T21:38:38.764524+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:58.677190+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:59.776278+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:37:44.960747+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:45:02.125046+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T14:16:56.375706+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.357851+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.357856+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.358580+00:00 apurvahp kernel: RAS: Correctable Errors collector initialized.
+2025-11-07T20:08:46.358879+00:00 apurvahp kernel: WSL (1 - init(docker-desktop)) ERROR: ConfigApplyWindowsLibPath:2058: open /etc/ld.so.conf.d/ld.wsl.conf failed 2
+2025-11-07T20:08:46.359185+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359216+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359221+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.497269+00:00 apurvahp snapd[191]: helpers.go:159: error trying to compare the snap system key: system-key missing on disk
+2025-11-07T20:20:26.185449+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:20:44.863671+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Could not ensure valid Landscape configuration: could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:20:44.863958+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T20:31:45.613975+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Exiting after could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:31:45.615098+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T21:31:09.378961+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T21:38:38.764524+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:58.677190+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:59.776278+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:37:44.960747+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:45:02.125046+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T14:16:56.375706+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T15:00:38.358100+00:00 apurvahp kernel: message repeated 4 times: [ WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5]
+2025-11-08T15:00:38.383860+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -3
+2025-11-08T15:00:40.390204+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.357851+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.357856+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.358580+00:00 apurvahp kernel: RAS: Correctable Errors collector initialized.
+2025-11-07T20:08:46.358879+00:00 apurvahp kernel: WSL (1 - init(docker-desktop)) ERROR: ConfigApplyWindowsLibPath:2058: open /etc/ld.so.conf.d/ld.wsl.conf failed 2
+2025-11-07T20:08:46.359185+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359216+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359221+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.497269+00:00 apurvahp snapd[191]: helpers.go:159: error trying to compare the snap system key: system-key missing on disk
+2025-11-07T20:20:26.185449+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:20:44.863671+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Could not ensure valid Landscape configuration: could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:20:44.863958+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T20:31:45.613975+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Exiting after could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:31:45.615098+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T21:31:09.378961+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T21:38:38.764524+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:58.677190+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:59.776278+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:37:44.960747+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:45:02.125046+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T14:16:56.375706+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T15:00:38.358100+00:00 apurvahp kernel: message repeated 4 times: [ WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5]
+2025-11-08T15:00:38.383860+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -3
+2025-11-08T15:00:40.390204+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.357851+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.357856+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.358580+00:00 apurvahp kernel: RAS: Correctable Errors collector initialized.
+2025-11-07T20:08:46.358879+00:00 apurvahp kernel: WSL (1 - init(docker-desktop)) ERROR: ConfigApplyWindowsLibPath:2058: open /etc/ld.so.conf.d/ld.wsl.conf failed 2
+2025-11-07T20:08:46.359185+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359216+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359221+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.497269+00:00 apurvahp snapd[191]: helpers.go:159: error trying to compare the snap system key: system-key missing on disk
+2025-11-07T20:20:26.185449+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:20:44.863671+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Could not ensure valid Landscape configuration: could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:20:44.863958+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T20:31:45.613975+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Exiting after could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:31:45.615098+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T21:31:09.378961+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T21:38:38.764524+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:58.677190+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:59.776278+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:37:44.960747+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:45:02.125046+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T14:16:56.375706+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T15:00:38.358100+00:00 apurvahp kernel: message repeated 4 times: [ WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5]
+2025-11-08T15:00:38.383860+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -3
+2025-11-08T15:00:40.390204+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.357851+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.357856+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.358580+00:00 apurvahp kernel: RAS: Correctable Errors collector initialized.
+2025-11-07T20:08:46.358879+00:00 apurvahp kernel: WSL (1 - init(docker-desktop)) ERROR: ConfigApplyWindowsLibPath:2058: open /etc/ld.so.conf.d/ld.wsl.conf failed 2
+2025-11-07T20:08:46.359185+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359216+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359221+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.497269+00:00 apurvahp snapd[191]: helpers.go:159: error trying to compare the snap system key: system-key missing on disk
+2025-11-07T20:20:26.185449+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:20:44.863671+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Could not ensure valid Landscape configuration: could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:20:44.863958+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T20:31:45.613975+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Exiting after could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:31:45.615098+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T21:31:09.378961+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T21:38:38.764524+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:58.677190+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:59.776278+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:37:44.960747+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:45:02.125046+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T14:16:56.375706+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T15:00:38.358100+00:00 apurvahp kernel: message repeated 4 times: [ WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5]
+2025-11-08T15:00:38.383860+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -3
+2025-11-08T15:00:40.390204+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.357851+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.357856+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.358580+00:00 apurvahp kernel: RAS: Correctable Errors collector initialized.
+2025-11-07T20:08:46.358879+00:00 apurvahp kernel: WSL (1 - init(docker-desktop)) ERROR: ConfigApplyWindowsLibPath:2058: open /etc/ld.so.conf.d/ld.wsl.conf failed 2
+2025-11-07T20:08:46.359185+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359216+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359221+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.497269+00:00 apurvahp snapd[191]: helpers.go:159: error trying to compare the snap system key: system-key missing on disk
+2025-11-07T20:20:26.185449+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:20:44.863671+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Could not ensure valid Landscape configuration: could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:20:44.863958+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T20:31:45.613975+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Exiting after could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:31:45.615098+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T21:31:09.378961+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T21:38:38.764524+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:58.677190+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:59.776278+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:37:44.960747+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:45:02.125046+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T14:16:56.375706+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T15:00:38.358100+00:00 apurvahp kernel: message repeated 4 times: [ WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5]
+2025-11-08T15:00:38.383860+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -3
+2025-11-08T15:00:40.390204+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T16:07:38.566483+00:00 apurvahp kernel: message repeated 3 times: [ WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5]
+2025-11-07T20:08:46.357851+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.357856+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.358580+00:00 apurvahp kernel: RAS: Correctable Errors collector initialized.
+2025-11-07T20:08:46.358879+00:00 apurvahp kernel: WSL (1 - init(docker-desktop)) ERROR: ConfigApplyWindowsLibPath:2058: open /etc/ld.so.conf.d/ld.wsl.conf failed 2
+2025-11-07T20:08:46.359185+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359216+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359221+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.497269+00:00 apurvahp snapd[191]: helpers.go:159: error trying to compare the snap system key: system-key missing on disk
+2025-11-07T20:20:26.185449+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:20:44.863671+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Could not ensure valid Landscape configuration: could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:20:44.863958+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T20:31:45.613975+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Exiting after could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:31:45.615098+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T21:31:09.378961+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T21:38:38.764524+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:58.677190+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:59.776278+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:37:44.960747+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:45:02.125046+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T14:16:56.375706+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T15:00:38.358100+00:00 apurvahp kernel: message repeated 4 times: [ WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5]
+2025-11-08T15:00:38.383860+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -3
+2025-11-08T15:00:40.390204+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T16:07:38.566483+00:00 apurvahp kernel: message repeated 3 times: [ WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5]
+2025-11-08T16:17:16.161811+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:17:16.161815+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:31:03.473216+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:31:03.473221+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:31:03.481223+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.357851+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.357856+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.358580+00:00 apurvahp kernel: RAS: Correctable Errors collector initialized.
+2025-11-07T20:08:46.358879+00:00 apurvahp kernel: WSL (1 - init(docker-desktop)) ERROR: ConfigApplyWindowsLibPath:2058: open /etc/ld.so.conf.d/ld.wsl.conf failed 2
+2025-11-07T20:08:46.359185+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359216+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359221+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.497269+00:00 apurvahp snapd[191]: helpers.go:159: error trying to compare the snap system key: system-key missing on disk
+2025-11-07T20:20:26.185449+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:20:44.863671+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Could not ensure valid Landscape configuration: could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:20:44.863958+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T20:31:45.613975+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Exiting after could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:31:45.615098+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T21:31:09.378961+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T21:38:38.764524+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:58.677190+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:59.776278+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:37:44.960747+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:45:02.125046+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T14:16:56.375706+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T15:00:38.358100+00:00 apurvahp kernel: message repeated 4 times: [ WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5]
+2025-11-08T15:00:38.383860+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -3
+2025-11-08T15:00:40.390204+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T16:07:38.566483+00:00 apurvahp kernel: message repeated 3 times: [ WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5]
+2025-11-08T16:17:16.161811+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:17:16.161815+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:31:03.473216+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:31:03.473221+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:31:03.481223+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.357851+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.357856+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.358580+00:00 apurvahp kernel: RAS: Correctable Errors collector initialized.
+2025-11-07T20:08:46.358879+00:00 apurvahp kernel: WSL (1 - init(docker-desktop)) ERROR: ConfigApplyWindowsLibPath:2058: open /etc/ld.so.conf.d/ld.wsl.conf failed 2
+2025-11-07T20:08:46.359185+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359216+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359221+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.497269+00:00 apurvahp snapd[191]: helpers.go:159: error trying to compare the snap system key: system-key missing on disk
+2025-11-07T20:20:26.185449+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:20:44.863671+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Could not ensure valid Landscape configuration: could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:20:44.863958+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T20:31:45.613975+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Exiting after could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:31:45.615098+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T21:31:09.378961+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T21:38:38.764524+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:58.677190+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:59.776278+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:37:44.960747+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:45:02.125046+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T14:16:56.375706+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T15:00:38.358100+00:00 apurvahp kernel: message repeated 4 times: [ WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5]
+2025-11-08T15:00:38.383860+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -3
+2025-11-08T15:00:40.390204+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T16:07:38.566483+00:00 apurvahp kernel: message repeated 3 times: [ WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5]
+2025-11-08T16:17:16.161811+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:17:16.161815+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:31:03.473216+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:31:03.473221+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:31:03.481223+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.357851+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.357856+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.358580+00:00 apurvahp kernel: RAS: Correctable Errors collector initialized.
+2025-11-07T20:08:46.358879+00:00 apurvahp kernel: WSL (1 - init(docker-desktop)) ERROR: ConfigApplyWindowsLibPath:2058: open /etc/ld.so.conf.d/ld.wsl.conf failed 2
+2025-11-07T20:08:46.359185+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359216+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359221+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.497269+00:00 apurvahp snapd[191]: helpers.go:159: error trying to compare the snap system key: system-key missing on disk
+2025-11-07T20:20:26.185449+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:20:44.863671+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Could not ensure valid Landscape configuration: could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:20:44.863958+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T20:31:45.613975+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Exiting after could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:31:45.615098+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T21:31:09.378961+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T21:38:38.764524+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:58.677190+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:59.776278+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:37:44.960747+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:45:02.125046+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T14:16:56.375706+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T15:00:38.358100+00:00 apurvahp kernel: message repeated 4 times: [ WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5]
+2025-11-08T15:00:38.383860+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -3
+2025-11-08T15:00:40.390204+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T16:07:38.566483+00:00 apurvahp kernel: message repeated 3 times: [ WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5]
+2025-11-08T16:17:16.161811+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:17:16.161815+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:31:03.473216+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:31:03.473221+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:31:03.481223+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.357851+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.357856+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.358580+00:00 apurvahp kernel: RAS: Correctable Errors collector initialized.
+2025-11-07T20:08:46.358879+00:00 apurvahp kernel: WSL (1 - init(docker-desktop)) ERROR: ConfigApplyWindowsLibPath:2058: open /etc/ld.so.conf.d/ld.wsl.conf failed 2
+2025-11-07T20:08:46.359185+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359216+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359221+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.497269+00:00 apurvahp snapd[191]: helpers.go:159: error trying to compare the snap system key: system-key missing on disk
+2025-11-07T20:20:26.185449+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:20:44.863671+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Could not ensure valid Landscape configuration: could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:20:44.863958+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T20:31:45.613975+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Exiting after could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:31:45.615098+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T21:31:09.378961+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T21:38:38.764524+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:58.677190+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:59.776278+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:37:44.960747+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:45:02.125046+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T14:16:56.375706+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T15:00:38.358100+00:00 apurvahp kernel: message repeated 4 times: [ WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5]
+2025-11-08T15:00:38.383860+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -3
+2025-11-08T15:00:40.390204+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T16:07:38.566483+00:00 apurvahp kernel: message repeated 3 times: [ WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5]
+2025-11-08T16:17:16.161811+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:17:16.161815+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:31:03.473216+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:31:03.473221+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:31:03.481223+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.357851+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.357856+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.358580+00:00 apurvahp kernel: RAS: Correctable Errors collector initialized.
+2025-11-07T20:08:46.358879+00:00 apurvahp kernel: WSL (1 - init(docker-desktop)) ERROR: ConfigApplyWindowsLibPath:2058: open /etc/ld.so.conf.d/ld.wsl.conf failed 2
+2025-11-07T20:08:46.359185+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359216+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359221+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.497269+00:00 apurvahp snapd[191]: helpers.go:159: error trying to compare the snap system key: system-key missing on disk
+2025-11-07T20:20:26.185449+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:20:44.863671+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Could not ensure valid Landscape configuration: could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:20:44.863958+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T20:31:45.613975+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Exiting after could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:31:45.615098+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T21:31:09.378961+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T21:38:38.764524+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:58.677190+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:59.776278+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:37:44.960747+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:45:02.125046+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T14:16:56.375706+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T15:00:38.358100+00:00 apurvahp kernel: message repeated 4 times: [ WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5]
+2025-11-08T15:00:38.383860+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -3
+2025-11-08T15:00:40.390204+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T16:07:38.566483+00:00 apurvahp kernel: message repeated 3 times: [ WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5]
+2025-11-08T16:17:16.161811+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:17:16.161815+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:31:03.473216+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:31:03.473221+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:31:03.481223+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.357851+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.357856+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.358580+00:00 apurvahp kernel: RAS: Correctable Errors collector initialized.
+2025-11-07T20:08:46.358879+00:00 apurvahp kernel: WSL (1 - init(docker-desktop)) ERROR: ConfigApplyWindowsLibPath:2058: open /etc/ld.so.conf.d/ld.wsl.conf failed 2
+2025-11-07T20:08:46.359185+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359216+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359221+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.497269+00:00 apurvahp snapd[191]: helpers.go:159: error trying to compare the snap system key: system-key missing on disk
+2025-11-07T20:20:26.185449+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:20:44.863671+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Could not ensure valid Landscape configuration: could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:20:44.863958+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T20:31:45.613975+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Exiting after could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:31:45.615098+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T21:31:09.378961+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T21:38:38.764524+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:58.677190+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:59.776278+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:37:44.960747+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:45:02.125046+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T14:16:56.375706+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T15:00:38.358100+00:00 apurvahp kernel: message repeated 4 times: [ WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5]
+2025-11-08T15:00:38.383860+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -3
+2025-11-08T15:00:40.390204+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T16:07:38.566483+00:00 apurvahp kernel: message repeated 3 times: [ WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5]
+2025-11-08T16:17:16.161811+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:17:16.161815+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:31:03.473216+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:31:03.473221+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:31:03.481223+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.357851+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.357856+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.358580+00:00 apurvahp kernel: RAS: Correctable Errors collector initialized.
+2025-11-07T20:08:46.358879+00:00 apurvahp kernel: WSL (1 - init(docker-desktop)) ERROR: ConfigApplyWindowsLibPath:2058: open /etc/ld.so.conf.d/ld.wsl.conf failed 2
+2025-11-07T20:08:46.359185+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359216+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359221+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.497269+00:00 apurvahp snapd[191]: helpers.go:159: error trying to compare the snap system key: system-key missing on disk
+2025-11-07T20:20:26.185449+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:20:44.863671+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Could not ensure valid Landscape configuration: could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:20:44.863958+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T20:31:45.613975+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Exiting after could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:31:45.615098+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T21:31:09.378961+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T21:38:38.764524+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:58.677190+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:59.776278+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:37:44.960747+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:45:02.125046+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T14:16:56.375706+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T15:00:38.358100+00:00 apurvahp kernel: message repeated 4 times: [ WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5]
+2025-11-08T15:00:38.383860+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -3
+2025-11-08T15:00:40.390204+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T16:07:38.566483+00:00 apurvahp kernel: message repeated 3 times: [ WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5]
+2025-11-08T16:17:16.161811+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:17:16.161815+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:31:03.473216+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:31:03.473221+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:31:03.481223+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.357851+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.357856+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.358580+00:00 apurvahp kernel: RAS: Correctable Errors collector initialized.
+2025-11-07T20:08:46.358879+00:00 apurvahp kernel: WSL (1 - init(docker-desktop)) ERROR: ConfigApplyWindowsLibPath:2058: open /etc/ld.so.conf.d/ld.wsl.conf failed 2
+2025-11-07T20:08:46.359185+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359216+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359221+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.497269+00:00 apurvahp snapd[191]: helpers.go:159: error trying to compare the snap system key: system-key missing on disk
+2025-11-07T20:20:26.185449+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:20:44.863671+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Could not ensure valid Landscape configuration: could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:20:44.863958+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T20:31:45.613975+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Exiting after could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:31:45.615098+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T21:31:09.378961+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T21:38:38.764524+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:58.677190+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:59.776278+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:37:44.960747+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:45:02.125046+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T14:16:56.375706+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T15:00:38.358100+00:00 apurvahp kernel: message repeated 4 times: [ WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5]
+2025-11-08T15:00:38.383860+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -3
+2025-11-08T15:00:40.390204+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T16:07:38.566483+00:00 apurvahp kernel: message repeated 3 times: [ WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5]
+2025-11-08T16:17:16.161811+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:17:16.161815+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:31:03.473216+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:31:03.473221+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:31:03.481223+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.357851+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.357856+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.358580+00:00 apurvahp kernel: RAS: Correctable Errors collector initialized.
+2025-11-07T20:08:46.358879+00:00 apurvahp kernel: WSL (1 - init(docker-desktop)) ERROR: ConfigApplyWindowsLibPath:2058: open /etc/ld.so.conf.d/ld.wsl.conf failed 2
+2025-11-07T20:08:46.359185+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359216+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359221+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.497269+00:00 apurvahp snapd[191]: helpers.go:159: error trying to compare the snap system key: system-key missing on disk
+2025-11-07T20:20:26.185449+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:20:44.863671+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Could not ensure valid Landscape configuration: could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:20:44.863958+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T20:31:45.613975+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Exiting after could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:31:45.615098+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T21:31:09.378961+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T21:38:38.764524+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:58.677190+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:59.776278+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:37:44.960747+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:45:02.125046+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T14:16:56.375706+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T15:00:38.358100+00:00 apurvahp kernel: message repeated 4 times: [ WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5]
+2025-11-08T15:00:38.383860+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -3
+2025-11-08T15:00:40.390204+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T16:07:38.566483+00:00 apurvahp kernel: message repeated 3 times: [ WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5]
+2025-11-08T16:17:16.161811+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:17:16.161815+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:31:03.473216+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:31:03.473221+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:31:03.481223+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.357851+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.357856+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.358580+00:00 apurvahp kernel: RAS: Correctable Errors collector initialized.
+2025-11-07T20:08:46.358879+00:00 apurvahp kernel: WSL (1 - init(docker-desktop)) ERROR: ConfigApplyWindowsLibPath:2058: open /etc/ld.so.conf.d/ld.wsl.conf failed 2
+2025-11-07T20:08:46.359185+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359216+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359221+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.497269+00:00 apurvahp snapd[191]: helpers.go:159: error trying to compare the snap system key: system-key missing on disk
+2025-11-07T20:20:26.185449+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:20:44.863671+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Could not ensure valid Landscape configuration: could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:20:44.863958+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T20:31:45.613975+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Exiting after could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:31:45.615098+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T21:31:09.378961+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T21:38:38.764524+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:58.677190+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:59.776278+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:37:44.960747+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:45:02.125046+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T14:16:56.375706+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T15:00:38.358100+00:00 apurvahp kernel: message repeated 4 times: [ WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5]
+2025-11-08T15:00:38.383860+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -3
+2025-11-08T15:00:40.390204+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T16:07:38.566483+00:00 apurvahp kernel: message repeated 3 times: [ WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5]
+2025-11-08T16:17:16.161811+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:17:16.161815+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:31:03.473216+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:31:03.473221+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:31:03.481223+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.357851+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.357856+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-07T20:08:46.358580+00:00 apurvahp kernel: RAS: Correctable Errors collector initialized.
+2025-11-07T20:08:46.358879+00:00 apurvahp kernel: WSL (1 - init(docker-desktop)) ERROR: ConfigApplyWindowsLibPath:2058: open /etc/ld.so.conf.d/ld.wsl.conf failed 2
+2025-11-07T20:08:46.359185+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359216+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.359221+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:08:46.497269+00:00 apurvahp snapd[191]: helpers.go:159: error trying to compare the snap system key: system-key missing on disk
+2025-11-07T20:20:26.185449+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T20:20:44.863671+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Could not ensure valid Landscape configuration: could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:20:44.863958+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T20:31:45.613975+00:00 apurvahp wsl-pro-service[2335]: #033[33mWARNING#033[0m Exiting after could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-07T20:31:45.615098+00:00 apurvahp wsl-pro-service[2335]: landscape-config: error: no such option: --register-if-needed
+2025-11-07T21:31:09.378961+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-07T21:38:38.764524+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:58.677190+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T03:04:59.776278+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:37:44.960747+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T06:45:02.125046+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T14:16:56.375706+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T15:00:38.358100+00:00 apurvahp kernel: message repeated 4 times: [ WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5]
+2025-11-08T15:00:38.383860+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -3
+2025-11-08T15:00:40.390204+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-08T16:07:38.566483+00:00 apurvahp kernel: message repeated 3 times: [ WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5]
+2025-11-08T16:17:16.161811+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:17:16.161815+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:31:03.473216+00:00 apurvahp systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:31:03.473221+00:00 apurvahp systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-08T16:31:03.481223+00:00 apurvahp kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
